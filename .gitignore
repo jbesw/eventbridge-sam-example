@@ -127,5 +127,6 @@ $RECYCLE.BIN/
 
 samconfig.toml
 packaged.yaml
+.aws-sam
 
 # End of https://www.gitignore.io/api/osx,node,linux,windows
